@@ -59,4 +59,4 @@ n2 = 22
 t = lca(root, n1, n2)
 print("LCA of %d and %d is %d" % (n1, n2, t.data))
 
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007)
+
